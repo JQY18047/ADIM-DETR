@@ -1,0 +1,16 @@
+# dataset path
+path: D:/Users/hp/Desktop/dataSet/UAV-PDD2023/已划分
+train: images/train
+val: images/val
+test: images/test
+
+# number of classes
+nc: 6
+
+# class names
+names: ['Transverse crack',
+        'Alligator crack',
+        'Oblique crack',
+        'Longitudinal crack',
+        'Pothole',
+        'Repair']
